@@ -7,7 +7,7 @@ Duration:June to 1st August 2024
 Mentor:NEELA SANTHOSH KUMAR
 
 **OVERVIEW OF PROJECT**
- PROJECT:TO-DO-LIST
+# PROJECT:TO-DO-LIST
 Objective
 The purpose of a to-do list is to help you organize your life and manage your time by listing tasks you need to complete within a certain time frame.
 Key Activites
@@ -18,7 +18,7 @@ Add a timeline: Create a realistic project timeline, set deadlines, and track pr
 Define goals: A to-do list is the tasks you do to achieve your goals
 Identify important tasks: See deadlines clearly so you can plan ahead and complete tasks promptly.
 Delegate: Remove tasks from your list or assign them to someone else so you can focus on the most important things.
-Technologies Used
+ # Technologies Used
 *HTML
 *CSS
 *JAVASCRIPT
